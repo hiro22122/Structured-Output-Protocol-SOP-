@@ -2,7 +2,7 @@
 
 
 
-!\[Structured Output Protocol](./sop.jpg)  
+![Title Banner](sop.jpg)
 
 <!-- Adjust the image path if needed -->
 
@@ -61,6 +61,7 @@ This repository documents the research, development, and application of SOP—re
 MIT License  
 
 ©️ 2025 \[hiro]
+
 
 
 
