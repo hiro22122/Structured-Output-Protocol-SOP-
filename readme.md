@@ -40,7 +40,7 @@ This repository documents the research, development, and application of SOP—re
 
 ### 📝 Articles on note  
 
-- [SOP-related articles on note (Japanese)]([https://note.com/ryuit22122/n/n37b3903e09e8])
+- [SOP-related articles on note (Japanese)][https://note.com/ryuit22122/n/n37b3903e09e8]
 
 
 
@@ -61,6 +61,7 @@ This repository documents the research, development, and application of SOP—re
 MIT License  
 
 ©️ 2025 [hiro]
+
 
 
 
