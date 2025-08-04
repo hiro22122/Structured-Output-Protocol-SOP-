@@ -2,7 +2,7 @@
 
 
 
-!\[Structured Output Protocol](./assets/sop-header.png)  
+!\[Structured Output Protocol](./SOP.jpg)  
 
 <!-- Adjust the image path if needed -->
 
@@ -32,21 +32,21 @@ This repository documents the research, development, and application of SOP—re
 
 
 
-\- 🇯🇵 \[Japanese Article: Introduction to SOP](https://your-github-pages-link.jp/sop-jp)
+\- 🇯🇵 \[Japanese Article: Introduction to SOP](./SOP JP.md)
 
-\- 🇺🇸 \[English Article: Structured Output Protocol Overview](https://your-github-pages-link.com/sop-en)
+\- 🇺🇸 \[English Article: Structured Output Protocol Overview](./SOP EN.md)
 
 
 
 \### 📝 Articles on note  
 
-\- \[SOP-related articles on note (Japanese)](https://note.com/your\_note\_account)
+\- \[SOP-related articles on note (Japanese)]([https://note.com/your\_note\_account](https://note.com/ryuit22122/n/n37b3903e09e8))
 
 
 
 \### ✖️ X (formerly Twitter)  
 
-\- \[Follow on X: @your\_x\_account](https://x.com/your\_x\_account)
+\- \[Follow on X: @your\_x\_account](https://x.com/ryuit22122)
 
 
 
@@ -60,7 +60,8 @@ This repository documents the research, development, and application of SOP—re
 
 MIT License  
 
-©️ 2025 \[your-name]
+©️ 2025 \[hiro]
+
 
 
 
