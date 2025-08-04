@@ -2,7 +2,7 @@
 
 
 
-!\[Structured Output Protocol](./SOP.jpg)  
+!\[Structured Output Protocol](./sop.jpg)  
 
 <!-- Adjust the image path if needed -->
 
@@ -32,9 +32,9 @@ This repository documents the research, development, and application of SOP—re
 
 
 
-\- 🇯🇵 \[Japanese Article: Introduction to SOP](./SOP JP.md)
+\- 🇯🇵 \[Japanese Article: Introduction to SOP](./sopjp.md)
 
-\- 🇺🇸 \[English Article: Structured Output Protocol Overview](./SOP EN.md)
+\- 🇺🇸 \[English Article: Structured Output Protocol Overview](./sopen.md)
 
 
 
@@ -61,6 +61,7 @@ This repository documents the research, development, and application of SOP—re
 MIT License  
 
 ©️ 2025 \[hiro]
+
 
 
 
