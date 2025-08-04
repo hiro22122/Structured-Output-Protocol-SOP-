@@ -1,4 +1,4 @@
-\# Structured Output Protocol (SOP)
+# Structured Output Protocol (SOP)
 
 
 
@@ -8,11 +8,11 @@
 
 
 
-\## Overview
+## Overview
 
 
 
-\*\*Structured Output Protocol (SOP)\*\* is an advanced prompt technique developed to enable AI systems to naturally generate context-sensitive vocabulary within coherent narratives.
+**Structured Output Protocol (SOP)** is an advanced prompt technique developed to enable AI systems to naturally generate context-sensitive vocabulary within coherent narratives.
 
 
 
@@ -24,29 +24,29 @@ This repository documents the research, development, and application of SOP—re
 
 
 
-\## 🔗 Key Links
+## 🔗 Key Links
 
 
 
-\### 📄 GitHub-hosted Articles
+### 📄 GitHub-hosted Articles
 
 
 
-\- 🇯🇵 \[Japanese Article: Introduction to SOP](./sopjp.md)
+- 🇯🇵 [Japanese Article: Introduction to SOP](./sopjp.md)
 
-\- 🇺🇸 \[English Article: Structured Output Protocol Overview](./sopen.md)
-
-
-
-\### 📝 Articles on note  
-
-\- \[SOP-related articles on note (Japanese)]([https://note.com/ryuit22122/n/n37b3903e09e8])
+- 🇺🇸 [English Article: Structured Output Protocol Overview](./sopen.md)
 
 
 
-\### ✖️ X (formerly Twitter)  
+### 📝 Articles on note  
 
-\- \[Follow on X: @your\_x\_account](https://x.com/ryuit22122)
+- [SOP-related articles on note (Japanese)]([https://note.com/ryuit22122/n/n37b3903e09e8])
+
+
+
+### ✖️ X (formerly Twitter)  
+
+- [Follow on X: @your\_x\_account](https://x.com/ryuit22122)
 
 
 
@@ -54,13 +54,14 @@ This repository documents the research, development, and application of SOP—re
 
 
 
-\## License
+## License
 
 
 
 MIT License  
 
-©️ 2025 \[hiro]
+©️ 2025 [hiro]
+
 
 
 
