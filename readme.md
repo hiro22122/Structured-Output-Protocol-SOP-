@@ -46,7 +46,7 @@ This repository documents the research, development, and application of SOP—re
 
 ### ✖️ X (formerly Twitter)  
 
-- [Follow on X: @your\_x\_account](https://x.com/ryuit22122)
+- [Follow on X: @ryuit22122](https://x.com/ryuit22122)
 
 
 
@@ -61,6 +61,7 @@ This repository documents the research, development, and application of SOP—re
 MIT License  
 
 ©️ 2025 [hiro]
+
 
 
 
